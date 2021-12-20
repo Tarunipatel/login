@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Mono&display=swap');
+
+
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-image: url('/assets/background.jpg');background-size: cover;
+    background-repeat: no-repeat;
+}
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+    padding: .4em 2em;
+}
+#inpt{
+    margin: 2em 0 ;
+}
+form{
+    padding: 0 2.5em ;
+}
+#login .title>span{
+    font-size: .8em;
+}
+#small-text{
+    color: white;
+}
