@@ -10,7 +10,7 @@ app.use('/assets',express.static(path.join(__dirname,'public/assets')))
 app.get('/', (req,res) =>{
 
 
-    res.render('home',{title: " Login System"})
+    res.render('home',{title: " Login_System"})
 })
 
 
